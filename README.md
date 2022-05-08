@@ -1,4 +1,4 @@
-## Para empezar
+## Para empezar.
 Primero, corre el servidor de desarrollo:
 
 ```
@@ -7,9 +7,9 @@ npm run dev
 yarn dev
 ```
 
-Abre [http://localhost:3000](http://localhost:3000) con tu navegador para ver los resultados
+Abre [http://localhost:3000](http://localhost:3000) con tu navegador para ver los resultados.
 
-## Test de Pagp
+## Test de Pago.
 
 Para finalizar el pago puedes usar la tajeta de prueba con los siguientes datos:
 
