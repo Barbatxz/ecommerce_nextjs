@@ -9,7 +9,7 @@ yarn dev
 
 Abre [http://localhost:3000](http://localhost:3000) con tu navegador para ver los resultados
 
-##Test de Pagp
+## Test de Pagp
 
 Para finalizar el pago puedes usar la tajeta de prueba con los siguientes datos:
 
